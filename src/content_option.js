@@ -60,28 +60,31 @@ const skills = [
     name: "Angular",
     value: 85,
   },
+  {
+    name: "AWS Services",
+    value: 85,
+  },
+  {
+    name: "Django Rest Frameworks",
+    value: 85,
+  },
 ];
 
 const services = [
   {
     title: "API Development",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      " Developing a well-defined API starts with careful planning and specification. Developers need to outline the endpoints, data structures, authentication methods, and usage policies.",
   },
   {
     title: "Deployment",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "Deploying code to AWS (Amazon Web Services) and Azure (Microsoft Azure) while following best practices involves careful planning, adherence to security measures, automation, and continuous monitoring.",
   },
   {
     title: "Testing",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-  },
-  {
-    title: "Web Development",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "Rigorous testing is essential to ensure the API functions correctly and securely. Developers identify and fix any bugs or issues that may arise during the testing phase.",
   },
 ];
 
@@ -89,11 +92,11 @@ const dataportfolio = [
   {
     img: "https://picsum.photos/400/?grayscale",
     description:
-      "Rental Managment Stack: Django, HTML, CSS, Bootstrap, Javascript, jQuery, MYSQL, AWS",
-    link: "http://django-env.eba-nj9f65re.us-west-2.elasticbeanstalk.com/",
+      "Rental Managment Stack: Django, HTML, CSS, Bootstrap, Javascript, MYSQL, AWS",
+    link: "https://rental.its0beno.com/",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: "https://picsum.photos/400/?grayscale",
     description:
       "E-learning Stack : Django, HTML, CSS, Bootstrap, Javascript,  MYSQL, AWS",
     link: "#",
@@ -105,60 +108,23 @@ const dataportfolio = [
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: "https://picsum.photos/400/?grayscale",
     description:
       "Collection Management System Stack :NodeJs, Angular, HTML, CSS, Bootstrap, TypeScript,  MYSQL, AWS",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: "https://picsum.photos/400/?grayscale",
     description:
-      "ERP System for Construction Companies Stack: Django, React, Typescript, jQuery, MSSQL, AWS",
+      "ERP System for Construction Companies Stack: Django, React, Typescript, MSSQL, AWS",
     link: "#",
   },
-  // {
-  //   img: "https://picsum.photos/400/700/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-
-  // {
-  //   img: "https://picsum.photos/400/600/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-  // {
-  //   img: "https://picsum.photos/400/300/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-  // {
-  //   img: "https://picsum.photos/400/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-  // {
-  //   img: "https://picsum.photos/400/550/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-  // {
-  //   img: "https://picsum.photos/400/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-  // {
-  //   img: "https://picsum.photos/400/700/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
+  {
+    img: "https://picsum.photos/400/?grayscale",
+    description:
+      "Inventory Managment System  Stack: Django, React, Typescript, MSSQL, AWS",
+    link: "https://kana.its0beno.com/",
+  },
 ];
 
 const contactConfig = {
@@ -166,8 +132,7 @@ const contactConfig = {
   YOUR_FONE: "+251 988174455",
   description:
     "I am not actively looking for a new role but I am open for discussion. Please feel free to contact me.",
-  // creat an emailjs.com account
-  // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
+
   YOUR_SERVICE_ID: "service_woyu1id",
   YOUR_TEMPLATE_ID: "template_77d2itl",
   YOUR_USER_ID: "SB_1Ki6LP6fGq1eHt",
