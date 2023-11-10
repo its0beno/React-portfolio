@@ -2,7 +2,7 @@ const logotext = "BENO";
 const meta = {
   title: "Abdurahman",
   description:
-    "I’m Abdurahman Jafer Software Enginner _ Full stack devloper,currently working in AA",
+    "I’m Abdurahman Jafer Software Enginner _ Full stack devloper,currently working in Full Cricle Solutions LLC",
 };
 
 const introdata = {
@@ -90,37 +90,37 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://lh3.googleusercontent.com/drive-viewer/AK7aPaAjK2Syb7kwEx6EsnggQLHz2ovPKJlDkt91Gs9B4qrslvj2iMldWsPG1QnJfPUk66IWbP9cY6O8wv-A_Bk52gtCOGhqfA=w1920-h911",
     description:
       "Rental Managment Stack: Django, HTML, CSS, Bootstrap, Javascript, MYSQL, AWS",
     link: "https://rental.its0beno.com/",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://www.globalizationpartners.com/wp-content/uploads/2019/12/e-learning-blog.png",
     description:
       "E-learning Stack : Django, HTML, CSS, Bootstrap, Javascript,  MYSQL, AWS",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://lh3.googleusercontent.com/drive-viewer/AK7aPaA3s-tKuzxexuanWybpI23t8f7N9Y2ID-GxdrMTSBlPnfbDVmkU4Dr9acrhDwc5PEt09lR7IOEj6nBXJxc6r48cYPKK0A=w1920-h911",
     description:
       "Hospital Management System Stack: Django, HTML, CSS, Bootstrap, Javascript,  MYSQL, AWS",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_1284,h_539/https://www.gallerysystems.com/wp-content/uploads/Collections-Management_TMS-Collections_devices.jpg",
     description:
       "Collection Management System Stack :NodeJs, Angular, HTML, CSS, Bootstrap, TypeScript,  MYSQL, AWS",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://www.constructiontuts.com/wp-content/uploads/2020/01/12-Biggest-Construction-Companies-in-the-World-1.jpg",
     description:
       "ERP System for Construction Companies Stack: Django, React, Typescript, MSSQL, AWS",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://www.waoconnect.com/wp-content/uploads/2020/07/Inventory-Management-System-Pic.jpg",
     description:
       "Inventory Managment System  Stack: Django, React, Typescript, MSSQL, AWS",
     link: "https://kana.its0beno.com/",
